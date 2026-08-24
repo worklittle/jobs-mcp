@@ -22,6 +22,17 @@ Docs: https://docs.worklittle.com/mcp
 Privacy: https://worklittle.com/privacy  
 Support: hello@worklittle.com
 
+
+## Agent skills
+
+Install the public job-search skills into Claude Code, Cursor, Codex, and other agents:
+
+```bash
+npx skills add worklittle/jobs-mcp
+```
+
+Browse them on [skills.sh](https://skills.sh). Docs also publish skills at `https://docs.worklittle.com`.
+
 ## License
 
 MIT
