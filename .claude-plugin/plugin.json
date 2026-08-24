@@ -1,0 +1,16 @@
+{
+  "name": "worklittle-jobs",
+  "displayName": "Worklittle Jobs",
+  "version": "1.0.0",
+  "description": "Find and apply to live jobs with Worklittle. Search, market data, nearby roles, and everyday job workflows via MCP.",
+  "author": {
+    "name": "Worklittle",
+    "email": "hello@worklittle.com",
+    "url": "https://worklittle.com"
+  },
+  "homepage": "https://docs.worklittle.com/mcp",
+  "repository": "https://github.com/worklittle/claude-jobs-plugin",
+  "license": "MIT",
+  "keywords": ["jobs", "job-search", "careers", "mcp"],
+  "defaultEnabled": false
+}
