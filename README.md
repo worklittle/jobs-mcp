@@ -1,6 +1,6 @@
 # Worklittle Jobs
 
-Swipe to apply for jobs in your AI app, search with filters like visa status, distance, and salary, and connect your Worklittle account to save jobs you love.
+Search over 4 million jobs with filters like visa status, distance, and salary, swipe to apply in your AI app, and connect your Worklittle account to save roles you love.
 
 Public MCP connector and plugin files for [Worklittle](https://worklittle.com). This repository contains skill instructions, a plugin manifest, and a pointer to the public MCP URL. It does not contain API keys, OAuth secrets, or private product source.
 
@@ -25,3 +25,7 @@ Support: hello@worklittle.com
 ## License
 
 MIT
+
+## Directories
+
+Listed in the [Claude Market MCP directory](https://www.claudemarket.ai/mcp).
