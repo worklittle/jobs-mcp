@@ -1,7 +1,7 @@
 {
   "name": "worklittle-jobs",
   "version": "1.0.1",
-  "description": "Swipe to apply for jobs in your AI app, and search over 4 million jobs with filters like visa status, distance, and salary, and connect your Worklittle account to save jobs you love.",
+  "description": "Swipe to apply for jobs using the Worklittle MCP app, and search over 4 million jobs with filters like visa status, distance, and salary, and connect your Worklittle account to save jobs you love.",
   "author": {
     "name": "Worklittle",
     "email": "hello@worklittle.com",
