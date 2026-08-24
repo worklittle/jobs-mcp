@@ -17,15 +17,20 @@ Product: https://worklittle.com
 
 ## Connect
 
-1. Enable the Worklittle Jobs plugin if it installed disabled.
-2. Approve the Worklittle MCP server when Claude asks.
-3. Complete OAuth in the browser (same Worklittle account as worklittle.com).
-4. Confirm tools such as `search_jobs` are available, then run a small search.
+Use the same URL in any MCP client (ChatGPT, VS Code, Cursor, Claude, Codex, and others):
 
-If OAuth fails, add a custom connector in Claude: Customize → Connectors → `https://mcp.worklittle.com/`
+```
+https://mcp.worklittle.com/
+```
 
-Claude Code:
+1. Add a remote / HTTP MCP server named Worklittle with that URL.
+2. Complete OAuth in the browser (same Worklittle account as worklittle.com).
+3. Confirm tools such as `search_jobs` are available, then run a small search.
+
+Claude Code only (the `claude` CLI):
 
 ```bash
 claude mcp add --transport http worklittle https://mcp.worklittle.com/
 ```
+
+If OAuth fails in Claude.ai, add a custom connector: Customize → Connectors → `https://mcp.worklittle.com/`
