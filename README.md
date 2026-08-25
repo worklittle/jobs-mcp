@@ -31,18 +31,16 @@ Privacy: https://worklittle.com/privacy
 Support: hello@worklittle.com
 
 
-## Cursor plugin
+## Client manifests
 
-This repo follows the [Cursor plugin template](https://github.com/cursor/plugin-template) as a **single plugin** at the repository root:
+The same remote MCP and skills work in Cursor, Claude, ChatGPT, VS Code, Codex, and other clients. Each host just looks for its own files:
 
-- `.cursor-plugin/plugin.json`
-- `.cursor-plugin/marketplace.json` (one plugin, `source: "."`)
-- `mcp.json` (remote MCP at `https://mcp.worklittle.com/`)
-- `skills/` (YAML frontmatter on every `SKILL.md`)
-- `rules/worklittle-jobs.mdc`
-- `assets/logo.png`
+- Claude Code / Claude plugin directory: `.claude-plugin/plugin.json`
+- Cursor Marketplace: `.cursor-plugin/` plus `mcp.json` (Cursor’s required filename)
+- Official MCP Registry: `server.json`
+- Skills (`npx skills add`): `skills/`
 
-Validate before marketplace review:
+Cursor’s reviewer script is in this repo so a marketplace submit matches their [plugin template](https://github.com/cursor/plugin-template). It does not make this a Cursor-only project.
 
 ```bash
 node scripts/validate-template.mjs
