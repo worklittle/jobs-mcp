@@ -30,6 +30,24 @@ Docs: https://docs.worklittle.com/mcp
 Privacy: https://worklittle.com/privacy  
 Support: hello@worklittle.com
 
+
+## Cursor plugin
+
+This repo follows the [Cursor plugin template](https://github.com/cursor/plugin-template) as a **single plugin** at the repository root:
+
+- `.cursor-plugin/plugin.json`
+- `.cursor-plugin/marketplace.json` (one plugin, `source: "."`)
+- `mcp.json` (remote MCP at `https://mcp.worklittle.com/`)
+- `skills/` (YAML frontmatter on every `SKILL.md`)
+- `rules/worklittle-jobs.mdc`
+- `assets/logo.png`
+
+Validate before marketplace review:
+
+```bash
+node scripts/validate-template.mjs
+```
+
 ## Agent skills
 
 Install the public job-search skills into Cursor, Codex, Claude Code, and other agents:

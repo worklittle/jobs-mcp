@@ -1,0 +1,22 @@
+{
+  "name": "worklittle-jobs",
+  "displayName": "Worklittle Jobs",
+  "version": "1.0.1",
+  "description": "Search over 4 million jobs with filters like visa status, distance, and salary, and connect your Worklittle account to apply to jobs with AI and save jobs you love.",
+  "author": {
+    "name": "Worklittle",
+    "email": "hello@worklittle.com"
+  },
+  "homepage": "https://docs.worklittle.com/mcp",
+  "repository": "https://github.com/worklittle/jobs-mcp",
+  "license": "MIT",
+  "keywords": [
+    "jobs",
+    "job-search",
+    "careers",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "skills": "skills",
+  "mcpServers": "mcp.json"
+}

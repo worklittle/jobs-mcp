@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "worklittle": {
+      "type": "http",
+      "url": "https://mcp.worklittle.com/"
+    }
+  }
+}

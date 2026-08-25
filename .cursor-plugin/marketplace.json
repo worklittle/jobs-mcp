@@ -1,0 +1,18 @@
+{
+  "name": "worklittle",
+  "owner": {
+    "name": "Worklittle",
+    "email": "hello@worklittle.com"
+  },
+  "metadata": {
+    "description": "Search over 4 million jobs with filters like visa status, distance, and salary, and connect your Worklittle account to apply to jobs with AI and save jobs you love.",
+    "version": "1.0.1"
+  },
+  "plugins": [
+    {
+      "name": "worklittle-jobs",
+      "source": ".",
+      "description": "Search over 4 million jobs with filters like visa status, distance, and salary, and connect your Worklittle account to apply to jobs with AI and save jobs you love."
+    }
+  ]
+}

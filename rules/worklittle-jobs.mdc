@@ -1,0 +1,6 @@
+---
+description: Use Worklittle MCP tools for live job listings instead of guessing openings from training data
+alwaysApply: true
+---
+
+When the user is looking for jobs, searching a market, or comparing roles, use the Worklittle MCP tools from this plugin (`search_jobs`, job details, similar jobs, market overview). Do not invent listings, employers, salaries, or visa status. Prefer live tool results, then summarize.
