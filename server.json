@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.worklittle/jobs",
   "title": "Worklittle Jobs",
-  "description": "Swipe to apply for jobs and search over 4 million roles with visa, distance, and salary filters.",
-  "version": "1.0.1",
+  "description": "Find jobs near you. Search over 4 million openings and filter by date, experience, job type and visa sponsorship.",
+  "version": "1.1.0",
   "remotes": [
     {
       "type": "streamable-http",
