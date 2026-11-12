@@ -5,14 +5,14 @@
     "email": "hello@worklittle.com"
   },
   "metadata": {
-    "description": "Find jobs near you and apply to them instantly. Worklittle searches over 1 million live job listings by role, place, pay, visa sponsorship and more, recommends the ones that fit you, and applies to one or several at once from your Worklittle account.",
-    "version": "1.2.0"
+    "description": "Find jobs near you and apply to them instantly. Worklittle searches over 7.5 million job listings by role, place, pay, visa sponsorship and more, recommends the ones that fit you, and applies to one or several at once from your Worklittle account.",
+    "version": "1.2.1"
   },
   "plugins": [
     {
       "name": "worklittle-jobs",
       "source": ".",
-      "description": "Find jobs near you and apply to them instantly. Worklittle searches over 1 million live job listings by role, place, pay, visa sponsorship and more, recommends the ones that fit you, and applies to one or several at once from your Worklittle account."
+      "description": "Find jobs near you and apply to them instantly. Worklittle searches over 7.5 million job listings by role, place, pay, visa sponsorship and more, recommends the ones that fit you, and applies to one or several at once from your Worklittle account."
     }
   ]
 }

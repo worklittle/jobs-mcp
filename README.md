@@ -1,6 +1,6 @@
 # Worklittle Jobs
 
-Find jobs near you and apply to them instantly. Worklittle searches over 1 million live job listings with filters like visa status, distance and salary, recommends the ones that fit you, and applies to one or several at once from your Worklittle account.
+Find jobs near you and apply to them instantly. Worklittle searches over 7.5 million job listings with filters like visa status, distance and salary, recommends the ones that fit you, and applies to one or several at once from your Worklittle account.
 
 Public MCP connector and plugin files for [Worklittle](https://worklittle.com). This repository contains skill instructions, a plugin manifest, and a pointer to the public MCP URL. It does not contain API keys, OAuth secrets, or private product source.
 
