@@ -10,7 +10,7 @@ description: >-
 
 ## Tools
 `search_jobs` / `get_job_details` → `get_my_resume` → `apply_for_job` → `check_application_status`
-(`submit_application`, `steer_application`, `list_applications`, `list_active_applications`, `stop_application`, `upload_my_resume` as needed)
+(`submit_application`, `steer_application`, `list_applications` (status `active` for ones running now, `days` for a period), `stop_application`, `upload_my_resume` as needed)
 
 ## Workflow
 1. **Find the job.** Use the job the user named or the one from the last search. Read `get_job_details` right before applying; a closed job should not be applied to.
