@@ -13,7 +13,7 @@ Small, realistic upgrades — not “quit and become a founder.”
 ## Tools
 - `get_market_overview` for current field vs 1–2 adjacent fields
 - `search_jobs` for step-up titles
-- `get_job_details` / `get_job_keywords` for top picks
+- `get_job_details` for top picks
 
 ## Workflow
 1. Capture current title, pay vibe, what they hate (hours, boss, standing, customers, nights).

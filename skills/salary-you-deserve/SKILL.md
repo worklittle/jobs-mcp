@@ -14,7 +14,6 @@ Combine **what you know about them** with **live market signal**.
 - `get_market_overview` for role + location salary signals
 - `search_jobs` with similar titles + `salary_min` exploration; read listed salaries
 - `get_job_details` on comps with pay disclosed
-- `get_job_keywords` optional if matching leveled titles
 
 ## Workflow
 1. Extract from chat/resume: title(s), years, location, industry, skills, constraints. Ask once if location or current title missing.

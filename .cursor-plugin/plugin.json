@@ -1,8 +1,8 @@
 {
   "name": "worklittle-jobs",
   "displayName": "Worklittle Jobs",
-  "version": "1.1.0",
-  "description": "Search over 4 million jobs with filters like visa status, distance, and salary, and connect your Worklittle account to apply to jobs with AI and save jobs you love.",
+  "version": "1.2.0",
+  "description": "Find jobs near you and apply to them instantly. Worklittle searches over 1 million live job listings by role, place, pay, visa sponsorship and more, recommends the ones that fit you, and applies to one or several at once from your Worklittle account.",
   "author": {
     "name": "Worklittle",
     "email": "hello@worklittle.com"
